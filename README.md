@@ -1,2 +1,2 @@
-# tp1_deep_learning_HAFSI_KHALIL
+# TP1_Deep_Learning
 Réalisé par : Chaimaa KHALIL & Siham HAFSI
